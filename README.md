@@ -1,0 +1,4 @@
+alcoholicplease
+===============
+
+mnemonic phrase generator
